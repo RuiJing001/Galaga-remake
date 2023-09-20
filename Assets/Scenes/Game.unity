@@ -782,7 +782,7 @@ MonoBehaviour:
   score: 0
   Level1Show: {fileID: 1045885172}
   Bosslevel: {fileID: 1000820347}
-  SpownLimit: 30
+  SpownLimit: 50
 --- !u!4 &187684954
 Transform:
   m_ObjectHideFlags: 0
@@ -2782,7 +2782,7 @@ MonoBehaviour:
   - {fileID: 768765693}
   - {fileID: 1220373626}
   gamewinPannel: {fileID: 18078867}
-  SpownLimit: 30
+  SpownLimit: 50
 --- !u!1 &984941512
 GameObject:
   m_ObjectHideFlags: 0
@@ -5931,7 +5931,7 @@ MonoBehaviour:
   spawnPoints:
   - {fileID: 299148673}
   - {fileID: 20629984}
-  SpownLimit: 30
+  SpownLimit: 50
 --- !u!82 &8000845816562767861
 AudioSource:
   m_ObjectHideFlags: 0
